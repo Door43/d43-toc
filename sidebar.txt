@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[toc:home|Door43 (toc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-toc|d43-toc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-toc/archive/master.zip|d43-toc.zip]]
+
+**Recent Changes**
+{{changes>ns = toc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/toc|Ethnologue data]]
+
